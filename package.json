@@ -1,6 +1,6 @@
 {
   "name": "zfill",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "simple function to pad a number with zeroes",
   "main": "index.js",
   "scripts": {
