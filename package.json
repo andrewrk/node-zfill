@@ -4,15 +4,16 @@
   "description": "simple function to pad a number with zeroes",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/superjoe30/node-zfill.git"
+    "url": "git://github.com/andrewrk/node-zfill.git"
   },
   "author": "Andrew Kelley",
   "license": "BSD",
-  "devDependencies": {
-    "mocha": "~1.6.0"
-  }
+  "bugs": {
+    "url": "https://github.com/andrewrk/node-zfill/issues"
+  },
+  "homepage": "https://github.com/andrewrk/node-zfill"
 }
